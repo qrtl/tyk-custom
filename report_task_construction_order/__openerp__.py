@@ -22,7 +22,7 @@
     'author': 'Rooms For (Hong Kong) Limited T/A OSCG',
     'website': 'https://www.odoo-asia.com/',
     'licence': 'AGPL-3',
-    'depends': ['report_aeroo','sale_service','project_site'],
+    'depends': ['report_aeroo','sale_service','project_site','purchase'],
     'summary':"""Print Construction Order from project.task using Aeroo Report""",
     'description': """
 Print Construction Order from project.task using Aeroo Report
